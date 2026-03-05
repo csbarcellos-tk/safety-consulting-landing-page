@@ -45,17 +45,23 @@ https://www.massano.seg.br
 # 📂 Estrutura do Projeto
 massano-landing-page
 
+│
 ├── index.html
 ├── robots.txt
 ├── sitemap.xml
-├── css
-│   └── styles.css
-├── js
-│   └── script.js
-├── images
-│   └── (todas as imagens)
 ├── README.md
-└── LICENSE
+├── LICENSE
+│
+├── css/
+│ └── styles.css
+│
+├── js/
+│ └── script.js
+│
+└── images/
+├── desktop.PNG
+├── mobile.PNG
+└── (outras imagens)
 ---
 # 📌 Observação
 
