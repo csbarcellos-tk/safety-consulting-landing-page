@@ -42,9 +42,10 @@ https://www.massano.seg.br
 ![Mobile Preview](images/mobile.PNG)
 
 ---
-# 📂 Estrutura do Projeto
-massano-landing-page
+## 📂 Estrutura do Projeto
 
+```
+massano-landing-page
 │
 ├── index.html
 ├── robots.txt
@@ -53,16 +54,16 @@ massano-landing-page
 ├── LICENSE
 │
 ├── css/
-│ └── styles.css
+│   └── styles.css
 │
 ├── js/
-│ └── script.js
+│   └── script.js
 │
 └── images/
-├── desktop.PNG
-├── mobile.PNG
-└── (outras imagens)
----
+    ├── desktop.PNG
+    ├── mobile.PNG
+    └── outras-imagens
+```
 # 📌 Observação
 
 Este projeto foi desenvolvido para um **cliente real** e está sendo compartilhado neste repositório **apenas para fins de portfólio**.
