@@ -33,15 +33,6 @@ Desenvolver uma página profissional para apresentação de serviços de seguran
 https://www.massano.seg.br
 
 ---
-## 📸 Preview
-
-### Desktop
-![Desktop Preview](images/desktop.PNG)
-
-### Mobile
-![Mobile Preview](images/mobile.PNG)
-
----
 ## 📂 Estrutura do Projeto
 
 ```
