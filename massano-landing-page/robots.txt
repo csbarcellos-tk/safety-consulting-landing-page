@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://massano.seg.br/sitemap.xml
