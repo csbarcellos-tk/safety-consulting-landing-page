@@ -1,7 +1,5 @@
 # 🏢 Landing Page - Massano Assessoria
 
-![Preview do Site](images/preview.png)
-
 Landing page institucional desenvolvida para uma empresa especializada em **segurança do trabalho e gestão de SST**.
 
 ---
@@ -35,13 +33,13 @@ Desenvolver uma página profissional para apresentação de serviços de seguran
 https://www.massano.seg.br
 
 ---
-# 📸 Preview
+## 📸 Preview
 
 ### Desktop
-![Desktop Preview](images/desktop.png)
+![Desktop Preview](images/desktop.PNG)
 
 ### Mobile
-![Mobile Preview](images/mobile.png)
+![Mobile Preview](images/mobile.PNG)
 
 ---
 # 📂 Estrutura do Projeto
